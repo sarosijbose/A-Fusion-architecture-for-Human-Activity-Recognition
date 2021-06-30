@@ -37,7 +37,7 @@ The Kinetics-RGB-600 checkpoint is avaliable within the ```checkpoint``` folder.
 The top 5-predictions will be printed in the order of their prediction accuracy.
 Here is a sample output for the video ```v_BabyCrawling_g18_c06```  
 
-![Sample Output](3D CNN/sample output.jpg)
+![Sample Output](https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition/blob/main/3D%20CNN/sample%20output.jpg)
 
 2. 2D CNN
 This folder contains the code for running the Spatial 2D CNN Stream.
