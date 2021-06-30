@@ -17,7 +17,7 @@ Then install the required dependencies.
 ```bash
 pip install -r requirements.txt
 ```
-B. Directory structure overview
+B. Directory structure overview  
 The codebase is divided into 5 folders. 
 
 1. 3D CNN
