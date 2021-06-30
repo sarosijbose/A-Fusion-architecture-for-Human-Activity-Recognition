@@ -32,7 +32,7 @@ Next, feed them *one-by-one* into the evaluation code for the results
 python eval_sample_RGB.py
 ```
 Make sure that the ```i3d.py``` file is present in the same directory and change the checkpoint path accordingly.
-The Kinetics-RGB-600 checkpoint is avaliable within the ```checkpoint``` folder.
+The Kinetics-RGB-600 checkpoint is avaliable [here](https://drive.google.com/drive/folders/1bLwYRzp7Aei1qtNhOcq5C4cnjD27A845?usp=sharing).
 
 The top 5-predictions will be printed in the order of their prediction accuracy.
 Here is a sample output for the video ```v_BabyCrawling_g18_c06```  
