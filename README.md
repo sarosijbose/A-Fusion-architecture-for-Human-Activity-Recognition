@@ -2,7 +2,7 @@
 
 *DISCLAIMER: This repository is currently under development. We expect to make the entire codebase and utilities avaliable within the next week.*
 
-## Overview:-
+## About:-
 
 This repository contains the implementation of this paper, currently under review in the Springer [2nd International Conference on Frontiers in Computing and Systems](https://comsysconf.org/index.html) (COMSYS-2021). 
 
