@@ -35,8 +35,9 @@ Make sure that the ```i3d.py``` file is present in the same directory and change
 The Kinetics-RGB-600 checkpoint is avaliable within the ```checkpoint``` folder.
 
 The top 5-predictions will be printed in the order of their prediction accuracy.
-Here is a sample output for the video ```v_BabyCrawling_g18_c06```:-
-![Sample Output](https://octodex.github.com/images/yaktocat.png)
+Here is a sample output for the video ```v_BabyCrawling_g18_c06```  
+
+![Sample Output](3D CNN/sample output.jpg)
 
 2. 2D CNN
 This folder contains the code for running the Spatial 2D CNN Stream.
