@@ -20,7 +20,7 @@ pip install -r requirements.txt
 B. Directory structure overview  
 The codebase is divided into 5 folders. 
 
-1. 3D CNN
+1. 3D CNN  
 This folder contains all the code necessary for running the Spatial 3D CNN Stream.
 First convert the sample UCF-101 videos given in the ```sample videos``` folder into their required pre-processed format,
 ```bash
@@ -54,5 +54,5 @@ This folder contains all the required utilities and samples required for evaluat
 
 ## Acknowledgements:-
 
-Parts of the codebase and the Kinetics-RGB-600 checkpoint have been adapted from the [i3d](https://github.com/deepmind/kinetics-i3d) repository. 
+Parts of the codebase and the RGB-600 checkpoint have been adapted from the [Kinetics](https://github.com/deepmind/kinetics-i3d) repository. 
 We are grateful to the authors for making their work avaliable.
