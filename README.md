@@ -8,7 +8,7 @@ This repository contains the implementation of this paper, currently under revie
 
 A. Clone the repository first.  
 ```bash
-git clone https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition.git
+git clone https://github.com/sarosijbose/A-Fusion-architecture-for-Human-Activity-Recognition.git
 ```
 
 B. It is then recommended to create a fresh virtual environment.
