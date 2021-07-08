@@ -13,12 +13,12 @@ label_map = [x.strip() for x in open(label_path)]
 
 def main():
 
-	indices, scores= evaluate.evaluate_input(path)
+	indices, scores= evaluate.evaluate_input(pre_processed_path)
 
 	top1_score_3dcnn = scores[indices[0]]
 	top1_class = label_map[indices[0]]
 
-	top1_labels_2dcnn, top1_score_2dcnn = eval2dcnn.run(path)
+	top1_labels_2dcnn, top1_score_2dcnn = eval2dcnn.run(video_path)
 
 	for i in range(len(top1_score_2dcnn)):
 
