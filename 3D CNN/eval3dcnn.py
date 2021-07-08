@@ -13,10 +13,10 @@ def evaluate_input(input_path):
     _SAMPLE_VIDEO_FRAMES = 79
 
     _CHECKPOINT_PATHS = {
-            'rgb600': '/content/drive/MyDrive/Research/checkpoint_kinetics600/model.ckpt',
+            'rgb600': '..../checkpoint_kinetics600/model.ckpt',
     }
 
-    _LABEL_MAP_PATH_600 = '/content/drive/MyDrive/Research/Kinetics600 classes.txt'
+    _LABEL_MAP_PATH_600 = '....../Kinetics600 classes.txt'
 
     #a = b = []
     FLAGS = tf.flags.FLAGS
@@ -95,8 +95,8 @@ def main(input_path):
     evaluate_input(input_path)  
 
 if __name__ == '__main__':
-    #input_path = '/content/drive/MyDrive/Research/v_CricketShot_g04_c01_rgb.npy'
+    #input_path = '/data//v_CricketShot_g04_c01_rgb.npy'
     evaluate_input()  
 else:
-    input_path = '/content/drive/MyDrive/Research/v_CricketShot_g04_c01_rgb.npy'
+    input_path = '/data/v_CricketShot_g04_c01_rgb.npy'
     main(input_path)
