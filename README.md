@@ -40,7 +40,7 @@ Make sure that the ```i3d.py``` file is present in the same directory and change
 The Kinetics-RGB-600 checkpoint is avaliable [here](https://drive.google.com/drive/folders/1bLwYRzp7Aei1qtNhOcq5C4cnjD27A845?usp=sharing).
 
 The top 5-predictions will be printed in the order of their prediction accuracy.
-Here is a sample output for the video ```v_BabyCrawling_g18_c06```  
+Here is a sample output for the video ```v_BrushingTeeth_g17_c02.npy```  
 
 ![Sample Output](https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition/blob/main/3D%20CNN/sample_output.jpg)
 
