@@ -6,9 +6,14 @@
 
 This repository contains the implementation of this paper, currently under review in the Springer [2nd International Conference on Frontiers in Computing and Systems](https://comsysconf.org/index.html) (COMSYS-2021). 
 
-## Setup:-
+## Setup:-  
 
-A. It is recommended to create a fresh virtual environment first.
+A. Clone the repository first.  
+```bash
+git clone https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition.git
+```
+
+B. It is then recommended to create a fresh virtual environment.
 ```bash
 python -m venv env
 source activate env/bin/activate
@@ -17,7 +22,7 @@ Then install the required dependencies.
 ```bash
 pip install -r requirements.txt
 ```
-B. Directory structure overview  
+C. Directory structure overview  
 The codebase is divided into 5 folders. 
 
 1. 3D CNN  
