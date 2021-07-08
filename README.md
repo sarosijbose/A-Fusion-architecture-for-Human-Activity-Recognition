@@ -46,14 +46,19 @@ Here is a sample output for the video ```v_BabyCrawling_g18_c06```
 
 2. 2D CNN  
 This folder contains the code for running the Spatial 2D CNN Stream.
-Download the entire pre-processed RGB data made avaliable by Feichtenhofer here.
+
 Next, directly feed the frames by running this,
 ```bash
-python predict.py
+python eval2dcnn.py
 ```
-3. Ensemble  
-**Upcoming soon**
+Here is a sample output:-
+![Sample Output](https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition/blob/main/2D%20CNN/Sample_output_2dcnn.jpg)
+Download the entire pre-processed RGB data made avaliable by Feichtenhofer here if you want to fine-tune on UCF-101.
 
+3. Average the softmax scores of each stream.
+```bash
+python average_fusion.py
+```
 4. Data   
 This folder contains all the required utilities and samples required for evaluation.
 
