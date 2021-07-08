@@ -42,7 +42,7 @@ The Kinetics-RGB-600 checkpoint is avaliable [here](https://drive.google.com/dri
 The top 5-predictions will be printed in the order of their prediction accuracy.
 Here is a sample output for the video ```v_BabyCrawling_g18_c06```  
 
-![Sample Output](https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition/blob/main/3D%20CNN/sample%20output.jpg)
+![Sample Output](https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition/blob/main/3D%20CNN/sample_output.jpg)
 
 2. 2D CNN  
 This folder contains the code for running the Spatial 2D CNN Stream.
