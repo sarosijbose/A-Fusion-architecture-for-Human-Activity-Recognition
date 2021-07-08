@@ -4,7 +4,7 @@
 
 ## About:-
 
-This repository contains the implementation of this paper, currently under review in the Springer [2nd International Conference on Frontiers in Computing and Systems](https://comsysconf.org/index.html) (COMSYS-2021). 
+This repository contains the implementation of this paper, currently under review in IEEE [INDICON](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html) 2021. 
 
 ## Setup:-  
 
