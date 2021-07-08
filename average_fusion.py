@@ -13,7 +13,7 @@ label_map = [x.strip() for x in open(label_path)]
 
 def main():
 
-	indices, scores= evaluate.evaluate_input(pre_processed_path)
+	indices, scores= eval3dcnn.evaluate_input(pre_processed_path)
 
 	top1_score_3dcnn = scores[indices[0]]
 	top1_class = label_map[indices[0]]
