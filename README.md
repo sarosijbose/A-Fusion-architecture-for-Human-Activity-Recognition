@@ -53,7 +53,7 @@ python eval2dcnn.py
 ```
 Here is a sample output:-
 ![Sample Output](https://github.com/sarosijbose/An-ensemble-architecture-for-Human-Activity-Recognition/blob/main/2D%20CNN/Sample_output_2dcnn.jpg)
-Download the entire pre-processed RGB data made avaliable by Feichtenhofer here if you want to fine-tune on UCF-101.
+Download the entire pre-processed RGB data made avaliable by Feichtenhofer [here](http://ftp.tugraz.at/pub/feichtenhofer/tsfusion/data/) if you want to fine-tune on UCF-101.
 
 3. Average the softmax scores of each stream.
 ```bash
