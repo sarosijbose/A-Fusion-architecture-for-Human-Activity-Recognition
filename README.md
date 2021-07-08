@@ -1,4 +1,4 @@
-# An ensemble architecture for Human Activity Recognition
+# A Fusion architecture for Human Activity Recognition
 
 *DISCLAIMER: This repository is currently under development. We expect to make the entire codebase and utilities avaliable within the next week.*
 
