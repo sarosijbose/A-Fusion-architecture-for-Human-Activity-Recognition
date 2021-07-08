@@ -1,7 +1,5 @@
 # A Fusion architecture for Human Activity Recognition
 
-*DISCLAIMER: This repository is currently under development. We expect to make the entire codebase and utilities avaliable within the next week.*
-
 ## About:-
 
 This repository contains the implementation of this paper, currently under review in IEEE [INDICON](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html) 2021. 
