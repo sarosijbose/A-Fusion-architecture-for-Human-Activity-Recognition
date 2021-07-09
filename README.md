@@ -2,7 +2,7 @@
 
 ## About:-
 
-This repository contains the implementation of this paper, currently under review in IEEE [INDICON](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html) 2021. 
+This repository contains the implementation of this paper, to be submitted under review in IEEE [INDICON](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html) 2021. This work was carried out under the supervision of Professor Amlan Chakrabarti, Department of AKCSIT, University of Calcutta.
 
 ## Setup:-  
 
