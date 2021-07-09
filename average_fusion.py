@@ -6,9 +6,9 @@ from 2D CNN import eval2dcnn
 logging.basicConfig(level = logging.INFO)
 #from 2D CNN.eval_sample-RGB import *
 
-pre_processed_path = '/content/drive/MyDrive/Research/v_CricketShot_g04_c01_rgb.npy'
-video_path = '/content/drive/MyDrive/Research/v_TennisSwing_g14_c03.avi'
-label_path = '/content/drive/MyDrive/Research/Kinetics600 classes.txt'
+pre_processed_path = '...../v_CricketShot_g04_c01_rgb.npy'
+video_path = '...../v_TennisSwing_g14_c03.avi'
+label_path = '......./Kinetics600 classes.txt'
 label_map = [x.strip() for x in open(label_path)]
 
 def main():
