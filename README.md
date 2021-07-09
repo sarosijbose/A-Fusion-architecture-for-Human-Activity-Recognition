@@ -32,7 +32,7 @@ python pre_processing.py
 This will convert the videos into the required .npy format.
 Next, feed them *one-by-one* into the evaluation code for the results
 ```bash
-python eval_sample_RGB.py
+python eval3dcnn.py
 ```
 Make sure that the ```i3d.py``` file is present in the same directory and change the checkpoint path accordingly.
 The Kinetics-RGB-600 checkpoint is avaliable [here](https://drive.google.com/drive/folders/1bLwYRzp7Aei1qtNhOcq5C4cnjD27A845?usp=sharing).
