@@ -60,6 +60,23 @@ python average_fusion.py
 4. Data   
 This folder contains all the required utilities and samples required for evaluation.
 
+## Citation:-
+
+Please consider citing this work if you found it useful:-
+
+```latex
+@INPROCEEDINGS{Bose2112:Fusion,
+AUTHOR="Sarosij Bose and Amlan Chakrabarti",
+TITLE="A Fusion Architecture Model for Human Activity Recognition",
+BOOKTITLE="2021 IEEE 18th India Council International Conference (INDICON)
+(INDICON-2021)",
+ADDRESS="IIT Guwahati (offline and online), India",
+DAYS=18,
+MONTH=dec,
+YEAR=2021,
+}
+```
+
 ## Acknowledgements:-
 
 Parts of the codebase and the RGB-600 checkpoint have been adapted from the [Kinetics](https://github.com/deepmind/kinetics-i3d) repository. 
