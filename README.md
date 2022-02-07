@@ -2,9 +2,9 @@
 
 ## About:-
 
-Update: This work has been accepted at IEEE [INDICON](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html) 2021! It was carried out under the supervision of Professor [Amlan Chakrabarti](https://sites.google.com/caluniv.ac.in/amlanc-org/), Department of AKCSIT, University of Calcutta.
+This work has been accepted at IEEE [INDICON](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html) 2021! It was carried out under the supervision of Professor [Amlan Chakrabarti](https://sites.google.com/caluniv.ac.in/amlanc-org/), Department of AKCSIT, University of Calcutta.
 
-*Paper will be available at IEEE Xplore library soon.*
+The paper is available [here](https://doi.org/10.1109/INDICON52576.2021.9691648) and the slides can be viewed [here](https://sarosijbose.github.io/files/INDICON_presentation_2021.pdf).
 
 ## Setup:-  
 
@@ -67,19 +67,18 @@ This folder contains all the required utilities and samples required for evaluat
 Please consider citing this work if you found it useful:-
 
 ```latex
-@INPROCEEDINGS{Bose2112:Fusion,
-AUTHOR="Sarosij Bose and Amlan Chakrabarti",
-TITLE="A Fusion Architecture Model for Human Activity Recognition",
-BOOKTITLE="2021 IEEE 18th India Council International Conference (INDICON)
-(INDICON-2021)",
-ADDRESS="IIT Guwahati (offline and online), India",
-DAYS=18,
-MONTH=dec,
-YEAR=2021,
-}
+@INPROCEEDINGS{9691648,
+  author={Bose, Sarosij and Chakrabarti, Amlan},
+  booktitle={2021 IEEE 18th India Council International Conference (INDICON)}, 
+  title={A Fusion Architecture Model for Human Activity Recognition}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/INDICON52576.2021.9691648}}
 ```
 
 ## Acknowledgements:-
 
 Parts of the codebase and the RGB-600 checkpoint have been adapted from the [Kinetics](https://github.com/deepmind/kinetics-i3d) repository. 
-We are grateful to the authors for making their work avaliable.
+We are grateful to the authors for making their work available.
